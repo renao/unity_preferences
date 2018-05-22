@@ -1,3 +1,7 @@
+# ABANDONED
+
+These settings aged out and will not be updated anymore.
+
 # Unity Preferences
 My very personal Unity 3D preferences including our current Neopoly code conventions.
 
